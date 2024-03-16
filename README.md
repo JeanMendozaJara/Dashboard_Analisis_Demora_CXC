@@ -8,13 +8,13 @@
 
 ## Resumen del Proyecto
 
-⋅⋅*Objetivo: 
+• Objetivo: 
 Obtener información específica y certera sobre indicadores relevantes para el área. Identificar los motivos en las demoras y las áreas involucradas. Lograr una solución que sea aplicable a todas las tiendas a nivel nacional reduciendo los niveles de demora que afectan los tiempos de otras áreas, por ende en sus indicadores y métricas y objetivos. 
 
-⋅⋅*Alcance:
+• Alcance:
 El proyecto tiene alcance al área de ventas principalmente las jefaturas quienes tienen a cargo el despliegue de la información y políticas para la correcta ejecución de procesos. Asimismo, el área de Sistemas dando la información necesaria al área interesada en la mejora como la ubicación de las tablas y bases de datos pertinentes para la solución. Finalmente, el Área de Procesos y RRHH para recaudar información oficial de los procedimientos estandarizados para el personal de ventas y su medición.
 
-⋅⋅* Indicadores y métricas relevantes a considerar en el proyecto son:
+• Indicadores y métricas relevantes a considerar en el proyecto son:
 -El tiempo de demora en la facturación y el tiempo de demora en la liquidación serán los principales indicadores para el análisis de tiempos de demora. Por ende el tiempo de demora total viene a ser la suma de los 2 anteriores.
 
 -Para tales efectos definiremos el tiempo de demora en facturación como la diferencia entre la fecha de pago y la fecha de venta (Que es cuando se emitió el documento contable) en días.
